@@ -1,0 +1,11 @@
+# Mediu virtual Python
+.venv/
+venv/
+ENV/
+
+# Fișiere de cache Python
+__pycache__/
+*.pyc
+
+# Setări specifice VS Code
+.vscode/
