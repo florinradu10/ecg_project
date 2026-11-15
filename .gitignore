@@ -9,3 +9,6 @@ __pycache__/
 
 # Setări specifice VS Code
 .vscode/
+
+# Datele mari de antrenare ECG
+data/train/
