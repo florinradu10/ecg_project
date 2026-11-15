@@ -1,0 +1,4 @@
+record_id,nume_pacient,varsta,sex,tensiune_sistolica,tensiune_diastolica,spo2,diagnostic_referinta
+100,Pacient 100 (Ritm Normal),69,M,122,78,98,Ritm sinusal normal
+119,Pacient 119 (Extrasistole),51,F,138,86,96,Aritmie - Extrasistole ventriculare (PVC)
+201,Pacient 201 (Fibrilatie),68,M,154,94,93,Aritmie - Fibrilatie atriala / Ritm neregulat
